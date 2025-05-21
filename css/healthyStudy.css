@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  overflow: hidden ;
+  
+}
+.v340_4 {
+  width: 100%;
+  height: 1995px;
+  background: rgb(255, 255, 255);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: visible;
+  animation: 60s credits linear infinite;
+  animation-delay: 1s;
+}
+.v340_18 {
+  width: 531px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 24px;
+  left: 455px;
+  font-family: Old Standard TT;
+  font-weight: Bold;
+  opacity: 1;
+  text-align: center;
+}
+
+@keyframes credits {
+  0% {
+    top: 200%;
+  }
+  100% {
+    top: -800%;
+  }
+}

@@ -1,0 +1,234 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v314_4 {
+  width: 100%;
+  height: 760px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v314_5 {
+  border-radius: 20px; /* match parent if needed */
+  border-radius: 20px;
+  width: 287px;
+  height: 509px;
+  background: url("../images/SCENE2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  left: 545px;
+  overflow: hidden;
+}
+.v314_1 {
+  border-radius: 20px; /* match parent if needed */
+  border-radius: 20px;
+  width: 287px;
+  height: 509px;
+  background: url("../images/wp.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  left: 545px;
+  overflow: hidden;
+}
+
+.v314_2 {
+  border-radius: 20px; /* match parent if needed */
+  border-radius: 20px;
+  width: 287px;
+  height: 509px;
+  background: url("../images/good.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 131px;
+  left: 545px;
+  overflow: hidden;
+}
+
+.v315_18 {
+  width: 239px;
+  height: 80px;
+  background: url("../images/v315_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 310px;
+  left: 870px;
+  overflow: hidden;
+}
+.v315_15 {
+  width: 239px;
+  height: 80px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+  border-bottom-left-radius: 19px;
+  border-bottom-right-radius: 19px;
+  overflow: hidden;
+}
+.v315_17 {
+  width: 93px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 30px;
+  left: 73px;
+  font-family: Mitr;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v315_19 {
+  width: 239px;
+  height: 80px;
+  background: url("./images/v315_19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 310px;
+  left: 280px;
+  overflow: hidden;
+}
+.v315_14 {
+  width: 239px;
+  height: 80px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+  border-bottom-left-radius: 19px;
+  border-bottom-right-radius: 19px;
+  overflow: hidden;
+}
+.v315_16 {
+  width: 79px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 27px;
+  left: 81px;
+  font-family: Mitr;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v314_6 {
+  width: 100%;
+  height: 85px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v314_7 {
+  width: 85px;
+  height: 100%;
+  background: rgba(3,74,148,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1453px;
+  border: 2px solid rgba(209,248,239,1);
+  overflow: hidden;
+}
+.v314_8 {
+  width: 48px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 30px;
+  left: 629px;
+  font-family: Mitr;
+  font-weight: ExtraLight;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v314_9 {
+  width: 44px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 30px;
+  left: 485px;
+  font-family: Mitr;
+  font-weight: ExtraLight;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v314_10 {
+  width: 46px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 30px;
+  left: 923px;
+  font-family: Mitr;
+  font-weight: ExtraLight;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v314_11 {
+  width: 45px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 30px;
+  left: 777px;
+  font-family: Mitr;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v314_12 {
+  width: 82px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 31px;
+  left: 23px;
+  font-family: Old Standard TT;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v314_13 {
+  width: 71px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 50px;
+  left: 23px;
+  font-family: Old Standard TT;
+  font-weight: Italic;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
